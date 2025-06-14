@@ -11,10 +11,10 @@ const SkeletonUI = () => {
                             </div>
                             <div className='px-3 pt-2 flex-3 flex flex-col gap-3'>
                                 <div className='flex items-center justify-center' >
-                                <Skeleton className='w-[55%]h-5 ' />
+                                <Skeleton className='w-[55%] h-5'/>
                                 </div>
                                 <div className='w-[80%] flex flex-col gap-3' >
-                                <Skeleton className='h-3 ' />
+                                <Skeleton className='h-3' />
                                 <Skeleton className='h-3' />
                                 <Skeleton className='h-3' />
                                 <Skeleton className='h-3' />
